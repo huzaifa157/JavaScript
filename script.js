@@ -39,5 +39,8 @@ let a = null ;
 console.log(typeof(a))
 console.log(a)
 
+
+// hoisting 
 console.log(b);
 var b = 8;
+
